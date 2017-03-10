@@ -14,9 +14,9 @@
 
 #### Device information:
 
-Type of Mac:
-macOS version:
-BetterTouchTool version:
+Type of Mac: 
+macOS version: 
+BetterTouchTool version: 
 
 #### Additional information (e.g. StackTraces, related issues, screenshots, workarounds, etc.):
 
